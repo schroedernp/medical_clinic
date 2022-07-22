@@ -1,0 +1,64 @@
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ProjetoFinal.exe
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ProjetoFinal.deps.json
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ProjetoFinal.runtimeconfig.json
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ProjetoFinal.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ProjetoFinal.pdb
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.csproj.AssemblyReference.cache
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.Form1.resources
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.csproj.GenerateResource.cache
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.AssemblyInfoInputs.cache
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.AssemblyInfo.cs
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.csproj.CoreCompileInputs.cache
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\refint\ProjetoFinal.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.pdb
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.genruntimeconfig.cache
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ref\ProjetoFinal.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.Properties.Resources.resources
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.frmConsultaConsultar.resources
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.frmConsultaInserir.resources
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.frmPacienteConsultar.resources
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.frmPacienteInserir.resources
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.csproj.CopyComplete
+D:\Programador Informático\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.frmEditarPaciente.resources
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ProjetoFinal.exe
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ProjetoFinal.deps.json
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ProjetoFinal.runtimeconfig.json
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ProjetoFinal.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ProjetoFinal.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.Form1.resources
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.frmConsultaConsultar.resources
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.frmConsultaInserir.resources
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.frmEditarPaciente.resources
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.frmPacienteConsultar.resources
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.frmPacienteInserir.resources
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.Properties.Resources.resources
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.csproj.GenerateResource.cache
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.AssemblyInfo.cs
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.csproj.CopyComplete
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\refint\ProjetoFinal.dll
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ProjetoFinal.genruntimeconfig.cache
+C:\Users\Utilizador\BackUp\Programador Informático\0 - UFCDS FINALIZADAS\17 - UFCD 3935 - Programacao em  C#\ProjetoFinal\ProjetoFinal\obj\Debug\net6.0-windows\ref\ProjetoFinal.dll

@@ -1,0 +1,4 @@
+select m.nome from medico m
+inner join especilidade e on e.id=m.especialidade_id
+and e.id=3 // este
+where e.id=3 // ou este
